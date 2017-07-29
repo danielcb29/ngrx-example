@@ -4,6 +4,6 @@ export interface AppState {
     counter: number;
 };
 
-export const reducer = {
+export const reducers = {
     counter: counterReducer
 };
